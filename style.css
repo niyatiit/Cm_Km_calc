@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+}
+body,html{
+    height:100%;
+    width:100%;
+    background-color: rgb(2, 38, 45);
+    color:white;
+}
+#main{
+    height: 100%;
+    width:100%;
+    margin:15px;
+}
+h1{
+    text-align: center;
+    font-size: 3.5vw;
+    text-decoration: underline;
+}
+p{
+    font-size: 2.5vw;
+}
+input{
+    margin-left:15px;
+    padding:10px;
+    font-size: 1.5vw;
+}
+button{
+    font-size: 2.5vw;
+    border-radius: 5px;
+   margin-left:50px;
+   padding:10px;
+}
+
+button:hover{
+    cursor: pointer;
+    color:rgb(67, 130, 143);
+}
+h2{
+    margin:25px;
+    font-size:2.0vw;
+    text-decoration: underline ;
+}
